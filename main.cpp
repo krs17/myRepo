@@ -22,7 +22,7 @@ void mergeSort(){
 }
 
 int main(){
-    std::cout<< "Hello World!";
+    std::cout<< "Hello World 123!";
     std::cout << "Hello Duniya...!!";
     return 0;
 }

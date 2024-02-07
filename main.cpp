@@ -18,7 +18,7 @@ void bubbleSort(){
 void mergeSort(){
 	//
 	//	
-	//
+	
 }
 
 int main(){
